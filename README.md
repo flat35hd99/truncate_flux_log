@@ -6,3 +6,4 @@
 $ jsub job.sh
 ```
 
+# truncate_flux_log
